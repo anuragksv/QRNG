@@ -1,0 +1,18 @@
+Ref 36 - Cross Ref 31
+The final security parameter of randomness extractor 
+(i.e. statistical distance between output distribution 
+and a perfect-random distribution) is a function of 
+input data size n. In the infinite key limit, the output 
+of randomness extractor is determined by the min-entropy. 
+In general, randomness extractors are quite efficient 
+(close to 100% for a reasonable input data size, such as 100Mbits).
+
+
+Ref 40 ( alternatives )
+http://theurbanengine.com/blog//the-diehard-tests
+https://webhome.phy.duke.edu/~rgb/General/dieharder.php
+https://sites.google.com/site/astudyofentropy/background-information/the-tests
+
+
+Ref 41 
+https://csrc.nist.gov/projects/random-bit-generation
